@@ -2,8 +2,8 @@
 This project is built on top of spring boot using microservices architecture to demo various aspect of tracing.
 
 ### Contributors
-Preetdeep Kumar
-Subhadip Ghosh
+- Preetdeep Kumar
+- Subhadip Ghosh
 
 ### Support or Contact
 
